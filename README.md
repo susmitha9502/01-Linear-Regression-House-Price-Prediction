@@ -31,6 +31,10 @@ The dataset contains the following features:
 ## Correlation Heatmap
 ![Distribustion](Feature-Distribution.png)
 
+----
+## Actual vs Predicted Plot
+![Prediction](prediction_plot.png)
+
 ## 🛠 Tools & Technologies
 - Python
 - Pandas
