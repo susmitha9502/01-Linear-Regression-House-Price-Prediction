@@ -27,6 +27,10 @@ The dataset contains the following features:
 ## Feature Distribution
 ![Heatmap](heatmap.png)
 
+------
+## Correlation Heatmap
+![Distribustion](Feature-Distribution.png)
+
 ## 🛠 Tools & Technologies
 - Python
 - Pandas
